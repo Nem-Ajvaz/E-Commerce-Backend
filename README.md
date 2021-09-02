@@ -13,13 +13,13 @@ Configure a working Express.js API to use Sequelize to interact with a MySQL dat
 ## Table of Contents
 
 - [E-Commerce Back End](#e-commerce-back-end)
-  - [Video Link](#video-link)
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [User Story](#user-story)
-  - [Acceptance Criteria](#acceptance-criteria)
-  - [Installation](#installation)
-  - [Questions](#questions)
+- [Video Link](#video-link)
+- [Description](#description)
+- [Table of Contents](#table-of-contents)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Installation](#installation)
+- [Questions](#questions)
 
 ## User Story
 
